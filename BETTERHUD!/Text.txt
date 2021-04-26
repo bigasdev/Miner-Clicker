@@ -1,0 +1,52 @@
+BetterBackpack:
+
+Equipment
+Helmet | Chestplate | Leggings | Gloves | Pickaxe 
+
+Inventory
+Scopia | Scarletine
+Irolite | Mithrilium
+Griotina | Adamorinal
+Azuric | Telodium
+Golsten | Resources
+
+BetterForge:
+
+Forge Equipment
+Helmet | Gloves
+Chestplate | Leggings
+Pickaxe
+
+Smelt Bars
+Scopia Bar | Scarletine Bar
+Irolite Bar | Mithrilium Bar
+Griotina Bar | Adamorinal Bar
+Azuric Bar | Telodium Bar
+Golsten Bar
+
+BetterMainHUD:
+Depth: X | Red Potion X/X | Blue Potion X/X | Yellow Potion X/X
+Player Health | Strength X | Defense X
+
+BetterCombat:
+
+Monster Name
+Health | Attack
+
+Consumables
+Player Health
+
+BetterShop:
+
+Spelunker: % finding more ores. 
+Monster Looter: % more resources from monsters. 
+Hot Miner: % getting smelt bars instead of ores.
+Potion Enthusiast: You can carry X more potions.
+Game Jammer: One hit everything.
+
+Consumables:
+(Red Potion) Health Potion: Heal % life
+(Blue Potion) Frenzy Potion: Remove click cooldown for X seconds
+OR
+(Blue Potion) Dodge Potion: % Chance of Dodge a Monster Attack for X seconds
+(Yellow Potion) Berserk Potion: 30% More damage for X seconds
